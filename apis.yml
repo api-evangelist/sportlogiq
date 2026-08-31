@@ -94,6 +94,11 @@ modified: '2026-05-25'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/teamworks/
+    name: Teamworks
+    x-relationship: acquired
+    x-evidence: "In January 2026 Sportlogiq was itself acquired by Teamworks, where it continues to operate as the AI analytics layer of Teamworks' broader operating system for sport."
   - type: DomainSecurity
     url: security/sportlogiq-domain-security.yml
   - type: Website
